@@ -1,0 +1,11 @@
+D:\Projects\Reconciliation\Reconciliation\bin\Release\Reconciliation.exe.config
+D:\Projects\Reconciliation\Reconciliation\bin\Release\Reconciliation.exe
+D:\Projects\Reconciliation\Reconciliation\bin\Release\Reconciliation.pdb
+D:\Projects\Reconciliation\Reconciliation\bin\Release\ExcelDataReader.dll
+D:\Projects\Reconciliation\Reconciliation\bin\Release\ExcelDataReader.xml
+D:\Projects\Reconciliation\Reconciliation\obj\Release\Reconciliation.csprojResolveAssemblyReference.cache
+D:\Projects\Reconciliation\Reconciliation\obj\Release\Reconciliation.Reconciliation.resources
+D:\Projects\Reconciliation\Reconciliation\obj\Release\Reconciliation.Properties.Resources.resources
+D:\Projects\Reconciliation\Reconciliation\obj\Release\Reconciliation.csproj.GenerateResource.Cache
+D:\Projects\Reconciliation\Reconciliation\obj\Release\Reconciliation.exe
+D:\Projects\Reconciliation\Reconciliation\obj\Release\Reconciliation.pdb
